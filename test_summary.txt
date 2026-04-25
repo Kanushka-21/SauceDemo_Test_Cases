@@ -1,0 +1,28 @@
+# Test Summary Report – SauceDemo
+
+## 📌 Project Overview
+Manual testing was conducted on the SauceDemo web application to verify core functionalities including login, product listing, cart operations, checkout process, and logout.
+
+---
+
+## 📊 Test Execution Summary
+
+| Metric | Count |
+|--------|------|
+| Total Test Cases | 17 |
+| Passed | 17 |
+| Failed | 0 |
+| Blocked | 0 |
+
+---
+
+## 🔍 Scope Covered
+- Login functionality  
+- Product listing  
+- Cart operations  
+- Checkout process  
+- Logout functionality  
+
+
+## 🛠️ Tested By
+Kanushka Witharamage  
